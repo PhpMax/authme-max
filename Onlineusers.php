@@ -1,5 +1,5 @@
 <?php
-/**
+/*
 Online Users class
 @package CodeIgniter
 @subpackage Libraries
